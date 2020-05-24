@@ -1,4 +1,5 @@
-Thare are data sciences related courses from DataCamp. I am enrolled for this program becuase of Data Insight (https://www.datainsightonline.com/data-scientist-program). I am grateful Data Insight for giving me this opportunity.
+Thare are data sciences related courses from DataCamp. I am enrolled for this program becuase of Data Insight fellowship
+(https://www.datainsightonline.com/data-scientist-program). I am grateful Data Insight for giving me this opportunity.
 All courses are numbered as assigned to me by Data Insight program. The tasks/quizzes are also arranged in the correct order as by DataCamp. Every chapter is numbered and the tasks/quizzes of that chapter/topics are arranged in subsequent order.
 For example, the course "Introduction to Python" is numbered as "1. Introduction to Python" and so on. Now, this first course has four chapters which are arranged as: 1. Python Basics, 2. Python Lists,
 3. Functions and Packages, and 4. NumPy. And the tasks/assignments of chapter one : 1. Python Basics are arrenged in such form : 1.1. The Python Interface, 1.2. When to use Python,
