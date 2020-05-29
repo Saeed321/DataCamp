@@ -1,0 +1,21 @@
+Recognizing tidy data
+For data to be tidy, it must have:
+•	Each column contains exactly one variable.
+•	Each row contains exactly one observation.
+However, what constitutes a unique observation depends on your use case. As a data scientist, you'll encounter data that is represented in a variety of different ways, so it is important to be able understand and describe the structure of your data.
+
+In this exercise, two example datasets have been pre-loaded into the DataFrames df1 and df2. They contain the same data, but structured in different ways. Your job is to explore these further in the IPython Shell and answer the question below.
+A note before proceeding. In the rest of this course, you will frequently be asked to explore the structure of DataFrames in the IPython Shell prior to performing different operations on them. Doing this will not only strengthen your comprehension of the data cleaning concepts covered in this course, but will also help you realize and take advantage of the relationship between working in the Shell and in the script.
+Which of the following statements is true?
+
+Instructions
+
+Possible Answers
+	 
+In df1, each row contains a single measurement from a sensor.
+	 
+In df2, each row contains a set of measurements from a single day.
+	 
+In both datasets, Date identifies each observation.
+
+Answer : In both datasets, Date identifies each observation.

@@ -1,0 +1,19 @@
+Calculating summary statistics
+
+You'll now use the .describe() method to calculate summary statistics of your data.
+In this exercise, an adapted DataFrame has been prepared for you to inspect, with fewer columns to increase readability in the IPython Shell.
+This adapted DataFrame has been pre-loaded as df. Your job is to use the .describe() method on it in the IPython Shell and select the statement below that is False.
+
+Instructions
+
+Possible Answers
+	 
+The mean of 'Existing Height' is 94.022809.
+	 
+There are 12846 entries in the DataFrame.
+	 
+The standard deviation of 'Street Frontage' is 11.874080.
+ 
+The maximum of 'Proposed Height' is 4200.
+
+Answer : The standard deviation of 'Street Frontage' is 11.874080.
