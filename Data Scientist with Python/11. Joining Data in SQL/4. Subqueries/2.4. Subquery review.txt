@@ -1,0 +1,17 @@
+Subquery review
+
+Within which SQL clause are subqueries most frequently found?
+
+Answer the question
+
+Possible Answers
+	 
+WHERE
+	 
+FROM
+	 
+SELECT
+	 
+IN
+
+Answer : WHERE
