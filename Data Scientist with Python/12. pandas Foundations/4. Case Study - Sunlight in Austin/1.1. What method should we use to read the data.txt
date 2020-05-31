@@ -1,0 +1,17 @@
+What method should we use to read the data?
+
+The first step in our analysis is to read in the data. Upon inspection with a certain system tool, we find that the data appears to be ASCII encoded with comma delimited columns, but has no header and no column labels. Which of the following is the best method to start with to read the data files?
+
+Answer the question
+
+Possible Answers
+	 
+pd.read_csv()
+	 
+pd.to_csv()
+	 
+pd.read_hdf()
+	 
+np.load()
+
+Answer : pd.read_csv()

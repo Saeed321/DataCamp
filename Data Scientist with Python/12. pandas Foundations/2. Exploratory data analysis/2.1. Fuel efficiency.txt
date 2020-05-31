@@ -1,0 +1,17 @@
+Fuel efficiency
+
+From the automobiles data set, which value corresponds to the median value of the 'mpg'column? Your job is to select the 'mpg' column and call the .median() method on it. The automobile DataFrame has been provided as df.
+
+Instructions
+
+Possible Answers
+	 
+29.0
+	 
+23.45
+	 
+22.75
+ 
+32
+
+Answer : 22.75
