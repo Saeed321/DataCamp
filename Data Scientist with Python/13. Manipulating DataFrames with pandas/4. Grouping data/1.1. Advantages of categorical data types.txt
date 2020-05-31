@@ -1,0 +1,17 @@
+Advantages of categorical data types
+
+What are the main advantages of storing data explicitly as categorical types instead of object types?
+
+Answer the question
+
+Possible Answers
+	 
+Computations are faster.
+	 
+Categorical data require less space in memory.
+	 
+All of the above.
+	 
+None of the above.
+
+Answer : All of the above.
