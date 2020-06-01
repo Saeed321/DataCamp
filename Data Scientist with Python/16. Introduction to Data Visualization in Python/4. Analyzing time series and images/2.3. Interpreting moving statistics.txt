@@ -1,0 +1,19 @@
+Interpreting moving statistics
+
+In the previous exercise, you generated the plot below.
+ 
+What length is the moving window that most consistently produces the greatest variance (standard deviation) in the AAPL stock price over the time interval shown?
+
+Instructions
+
+Possible Answers
+	 
+30 days
+	 
+75 days
+	 
+125 days
+	 
+250 days
+
+Answer : 250 days
