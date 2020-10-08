@@ -1,0 +1,12 @@
+Would you use deep learning?
+Imagine you're building an app that allows you to take a picture of your clothes and then shows you a pair of shoes that would match well. This app needs a machine learning module that's in charge of identifying the type of clothes you are wearing, as well as their color and texture. Would you use deep learning to accomplish this task?
+
+Possible Answers
+	 
+I'd use deep learning, since we are dealing with tabular data and neural networks work well with images.
+	 
+I'd use deep learning since we are dealing with unstructured data and neural networks work well with images.
+	 
+This task can be easily accomplished with other machine learning algorithms, so deep learning is not required.
+
+Answer : I'd use deep learning since we are dealing with unstructured data and neural networks work well with images.

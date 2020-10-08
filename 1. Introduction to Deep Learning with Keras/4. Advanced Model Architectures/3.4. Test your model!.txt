@@ -1,0 +1,19 @@
+Test your model!
+
+The function you just built, predict_text(), is ready to use.
+Try out these strings on your LSTM model:
+•	'meet revenge with'
+•	'the course of'
+•	'strength of the'
+
+Which sentence could be made with the word output from the sentences above?
+
+Possible Answers
+
+A worthless gnome is king
+
+Revenge is your history and spirit
+
+Take a sword and ride to Florida
+
+Answer : Revenge is your history and spirit

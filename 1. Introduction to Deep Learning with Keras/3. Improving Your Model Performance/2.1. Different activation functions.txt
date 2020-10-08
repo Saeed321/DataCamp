@@ -1,0 +1,15 @@
+
+Different activation functions
+
+The sigmoid(),tanh(), ReLU(), and leaky_ReLU() functions have been defined and ready for you to use. Each function receives an input number X and returns its corresponding Y value.
+Which of the statements below is false?
+
+Possible Answers
+	 
+The sigmoid() takes a value of 0.5 when X = 0 whilst tanh() takes a value of 0.
+	 
+The leaky_ReLU() takes a value of -0.01 when X = -1 whilst ReLU() takes a value of 0.
+	 
+The sigmoid() and tanh() both take values close to -1 for big negative numbers.
+
+Answer : The sigmoid() and tanh() both take values close to -1 for big negative numbers.

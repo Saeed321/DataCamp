@@ -1,0 +1,12 @@
+Describing Keras
+Which of the following statements about Keras is false?
+
+Possible Answers
+	 
+Keras is integrated into TensorFlow, that means you can call Keras from within TensorFlow and get the best of both worlds.
+	 
+Keras can work well on its own without using a backend, like TensorFlow.
+	 
+Keras is an open source project started by François Chollet.
+
+Answer : Keras can work well on its own without using a backend, like TensorFlow.
