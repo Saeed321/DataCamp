@@ -1,0 +1,18 @@
+What is special about a deep network?
+
+Networks with more convolution layers are called "deep" networks, and they may have more power to fit complex data, 
+because of their ability to create hierarchical representations of the data that they fit.
+
+What is a major difference between a deep CNN and a CNN with only one convolutional layer?
+
+Possible Answers
+
+A deep network is inspired by the human visual system.
+
+A deep network requires more data and more computation to fit.
+
+A deep network has more dense layers.
+
+A deep network has larger convolutions.
+
+Answer : A deep network requires more data and more computation to fit.
