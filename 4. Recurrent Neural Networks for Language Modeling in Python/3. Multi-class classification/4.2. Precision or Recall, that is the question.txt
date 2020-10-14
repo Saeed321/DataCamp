@@ -1,0 +1,44 @@
+Precision or Recall, that is the question
+
+You learned about a few performance metrics and maybe you are asking, when should I use precision and when should I use recall? 
+Those two metrics are calculated for each class, and sometimes it is difficult to understand when to focus on one and when to focus on the other.
+
+Precision is a metric that measures how well the model is predicting some class, while recall measures how well a class is being classified. 
+If precision is high for one class, you can trust your model when it predicts that class. 
+When recall is high for a class, you can rest assured that that class is well understood by the model.
+
+Follow the instruction to see this comparison between precision and recall with an example. The functions precision_score() and recall_score() are loaded.
+•	Compute the precision of the sentiment_model using the sentiment_y_true and sentiment_y_pred variables and store it in the prec_sentiment variable.
+•	Print the obtained value.
+
+# Compute the precision of the sentiment model
+prec_sentiment = precision_score(sentiment_y_true, sentiment_y_pred, average=None)
+
+print(prec_sentiment)
+•	Compute the recall of the sentiment_model using the sentiment_y_true and sentiment_y_pred variables and store on the rec_sentiment variable.
+•	Print the obtained value.
+
+# Compute the recall of the sentiment model
+rec_sentiment = recall_score(sentiment_y_true, sentiment_y_pred, average=None)
+print(rec_sentiment)
+
+Question
+
+You are a manager at a bank responsible for social media analysis with the task to reduce the bad image your bank has obtained recently 
+because the organization was not identifying its customers' complaints and needs. 
+You implemented a sentiment analysis model to classify tweets mentioning the bank's name into good (compliments) or bad (complaints).
+Imagine the results from the previous steps are the precision and recall measures of the class complaints (check the second item on the precision and recall arrays), 
+which of the following is correct:
+(Don't forget that you can use the console to check the values obtained before.)
+
+Possible Answers
+	 
+The model is able to correctly classify 75% of the complaint tweets.
+	 
+The model has 20% error when classifying compliments.
+	 
+You want a higher recall score to identify most of the customers' complaints instead of a higher precision so you can rely on what the model predicted.
+	 
+You need to check the accuracy score in order to analyze the complaints of the customers.
+
+Answer : You want a higher recall score to identify most of the customers' complaints instead of a higher precision so you can rely on what the model predicted.

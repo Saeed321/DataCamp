@@ -1,0 +1,46 @@
+Comparing the number of parameter of RNN and ANN
+In this exercise, you will compare the number of parameters of an artificial neural network (ANN) with the recurrent neural network (RNN) architectures. 
+Here, the vocabulary size is equal to 10,000 for both models.
+
+The models have been defined for you with similar architectures of only one layer with 256 units (Dense or RNN) plus the output layer. 
+They are stored on variables ann_model and rnn_model.
+Use the method .summary() to print the models' architecture and number of parameters and select the correct statement.
+
+In [1]: ann_model.summary()
+Model: "ann_model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_1 (Dense)              (None, None, 256)         2560256   
+_________________________________________________________________
+dense_2 (Dense)              (None, None, 1)           257       
+=================================================================
+Total params: 2,560,513
+Trainable params: 2,560,513
+Non-trainable params: 0
+_________________________________________________________________
+
+In [2]: rnn_model.summary()
+Model: "rnn_model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+simple_rnn_1 (SimpleRNN)     (None, 256)               66048     
+_________________________________________________________________
+dense_3 (Dense)              (None, 1)                 257       
+=================================================================
+Total params: 66,305
+Trainable params: 66,305
+Non-trainable params: 0
+
+Possible Answers
+	 
+The ANN model has more parameters on the second Dense layer than the RNN model.
+	 
+The RNN model has fewer parameters than the ANN model.
+	 
+The RNN model needs to train approximately the same number of parameters as the ANN model.
+	 
+The one-hot encoding allows the RNN model to have fewer parameters.
+
+Answer : The RNN model has fewer parameters than the ANN model.

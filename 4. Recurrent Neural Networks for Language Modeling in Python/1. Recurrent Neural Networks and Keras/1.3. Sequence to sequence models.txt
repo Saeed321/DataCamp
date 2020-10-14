@@ -1,0 +1,26 @@
+Sequence to sequence models
+
+In the video exercise, you learned about four types of sequence to sequence models: 
+many-to-one (classification) and many-to-many (text generation, neural machine translation and language models). 
+In this exercise, you have to choose the correct type of model given the following problem description:
+
+You are helping your friend who is a specialist in speech recognition. 
+Your friend built a model that can recognize different accents of English, but the model is failing to distinguish homophones - 
+words with the same pronunciation but have different meaning such as "sea" vs "see" or "write" vs "right".
+
+You propose to use a model that will use the context around the words to identify the semantic meaning of the words. 
+By learning the meaning of the words, the new model would avoid outputs like "Did you sea that car?" - it would identify that in this case, the correct word would be "see".
+
+What type of sequence-to-sequence model is appropriate?
+
+Possible Answers
+
+Many-to-many, because it is a classification model.
+
+Many-to-one, because it is a classification model.
+
+Many-to-many, this problem can be solved with a language model.
+
+Many-to-one, because it is a prediction problem.
+
+Answer : Many-to-many, this problem can be solved with a language model.
