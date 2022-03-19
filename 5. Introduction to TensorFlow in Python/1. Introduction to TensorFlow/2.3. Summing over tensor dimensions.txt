@@ -1,0 +1,20 @@
+Summing over tensor dimensions
+
+You've been given a matrix, wealth. This contains the value of bond and stock wealth for five individuals in thousands of dollars.
+
+wealth = [[11, 50], [7, 2], [4, 60], [3, 0], [25, 10]]
+
+The first column corresponds to bonds and the second corresponds to stocks. Each row gives the bond and stock wealth for a single individual. 
+Use wealth, reduce_sum(), and .numpy() to determine which statements are correct about wealth.
+
+Possible Answers
+	 
+The individual in the first row has the highest total wealth (i.e. stocks + bonds).
+
+Combined, the 5 individuals hold $50,000 in stocks.
+
+Combined, the 5 individuals hold $50,000 in bonds.
+
+The individual in the second row has the lowest total wealth (i.e. stocks + bonds).
+
+Answer : Combined, the 5 individuals hold $50,000 in bonds.
