@@ -1,0 +1,27 @@
+Calculating loss function by hand
+
+Let's start the exercises by calculating the loss function by hand. Don't do this exercise in PyTorch, it is important to first do it using only pen and paper (and a calculator).
+We have the same example as before but now our object is actually a frog, and the predicted scores are -1.2 for class 0 (cat), 0.12 for class 1 (car) and 4.8 for class 2 (frog).
+________________________________________
+What is the result of the softmax cross-entropy loss function?
+
+Class		Predicted Score
+
+Cat		     -1.2
+
+Car		     0.12
+
+Frog		     4.8
+
+
+Possible Answers
+	 
+6.0117
+	 
+4.6917
+	 
+0.0117
+	 
+Score for frog is high, so loss is 0.
+
+Answer : 0.0117
