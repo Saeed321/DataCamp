@@ -1,0 +1,17 @@
+Detecting overfitting
+
+Overfitting is arguably the biggest problem in machine learning and data science, and being able to detect it will make you a much better data scientist. While reaching a high (or even perfect) accuracy on training sets is quite easy when you use neural networks, reaching a high accuracy on validation and testing sets is a very different thing.
+________________________________________
+Let's see if you can now detect overfitting. Amongst the accuracy scores below, which network presents the biggest overfitting problem. ?
+
+Possible Answers
+
+The accuracy in the training set is 90%, the accuracy in the validation set is 88%.
+
+The accuracy in the training set is 90%, the accuracy in the testing set is 70%.
+
+The accuracy in the training set is 90%, the accuracy in the validation set is 70%.
+
+The accuracy in the validation set is 85%, the accuracy in the testing set is 82%.
+
+Answer : The accuracy in the training set is 90%, the accuracy in the validation set is 70%.
