@@ -1,0 +1,15 @@
+Resampling methods for imbalanced data
+
+Which of these methods takes a random subsample of your majority class to account for class "imbalancedness"?
+
+Possible Answers
+
+Random Over Sampling (ROS)
+
+Random Under Sampling (RUS)
+
+Synthetic Minority Over-sampling Technique (SMOTE)
+
+None of the above
+
+Answer : Random Under Sampling (RUS)
