@@ -1,0 +1,17 @@
+Understand the problem type
+As you've just seen, the first step of the solution workflow is to skim through the problem statement. Your goal now is to determine data types available as well as the problem type for the Avito Demand Prediction Challenge. The evaluation metric in this competition is the Root Mean Squared Error. The problem definition is presented below.
+In this Kaggle competition, Avito is challenging you to predict demand for an online advertisement based on its full description (price, title, images, etc.), its context (geo position, similar ads already posted) and historical demand for similar ads in the past.
+________________________________________
+What problem type are you facing, and what data do you have at your disposal?
+
+Possible Answers
+	 
+This is a regression problem with tabular, time series, image and text data.
+	 
+This is a regression problem with tabular, text and image data.
+	 
+This is a classification problem with tabular, time series, image and text data.
+	 
+This is a clustering problem with tabular, text and image data.
+
+Answer : This is a regression problem with tabular, time series, image and text data.

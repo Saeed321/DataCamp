@@ -1,0 +1,25 @@
+What model is overfitting?
+
+Let's say you've trained 4 different models and calculated a metric for both train and validation data sets. 
+For example, the metric is Mean Squared Error (the lower its value the better). 
+Train and validation metrics for all the models are presented in the table below.
+
+Please, select the model that overfits to train data.
+
+Model		Train MSE	Validation MSE
+Model 1		2.35		2.46
+Model 2		2.20		2.15
+Model 3		2.10		2.14
+Model 4		1.90		2.35
+
+Possible Answers
+ 
+Model 1.
+	 
+Model 2.
+	 
+Model 3.
+	 
+Model 4.
+
+Answer : Model 4.

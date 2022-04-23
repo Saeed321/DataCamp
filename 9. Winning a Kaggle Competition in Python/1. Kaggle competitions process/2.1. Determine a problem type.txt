@@ -1,0 +1,14 @@
+You will keep working on the Store Item Demand Forecasting Challenge. Recall that you are given a history of store-item sales data, and asked to predict 3 months of the future sales.
+Before building a model, you should determine the problem type you are addressing. The goal of this exercise is to look at the distribution of the target variable, and select the correct problem type you will be building a model for.
+The train DataFrame is already available in your workspace. It has the target variable column called "sales". Also, matplotlib.pyplot is already imported as plt.
+
+Possible Answers
+	 
+Classification.
+	 
+Regression.
+	 
+Clustering.
+
+
+Answer : Regression.
