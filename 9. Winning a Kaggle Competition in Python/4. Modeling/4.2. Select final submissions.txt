@@ -1,0 +1,19 @@
+Select final submissions
+The last action in every competition is selecting final submissions. Your goal is to select 2 final submissions based on the local validation and Public Leaderboard scores. Suppose that the competition metric is RMSE (the lower the metric the better). Keep up with a selection strategy we've discussed in the slides:
+1.	Local validation: 1.25; Leaderboard: 1.35.
+2.	Local validation: 1.32; Leaderboard: 1.39.
+3.	Local validation: 1.10; Leaderboard: 1.29.
+4.	Local validation: 1.17; Leaderboard: 1.25.
+5.	Local validation: 1.21; Leaderboard: 1.32.
+
+Answer the question
+
+Possible Answers
+	 
+1 and 2.
+2 and 3.
+3 and 4.
+4 and 5.
+1 and 5.
+
+Answer : 3 and 4.
