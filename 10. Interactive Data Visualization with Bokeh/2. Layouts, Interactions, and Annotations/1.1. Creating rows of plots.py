@@ -7,6 +7,15 @@
 #	Put p1 and p2 into a horizontal layout using row().
 #	Click 'Submit Answer' to output the file and show the figure.
 
+Hint
+
+#	You can import x from y using the command from y import x.
+#	You can create p1 using figure() with x_axis_label = 'fertility (children per woman)' and y_axis_label = 'female_literacy (% population)'.
+#	To add a circle glyph to p1, use p1.circle() with 'fertility', 'female_literacy' and source=source as arguments.
+#	You can create p2 using figure() with x_axis_label = 'population' and y_axis_label = 'female_literacy (% population)'.
+#	To add a circle glyph to p2, use p2.circle() with 'population', 'female_literacy' and source=source as arguments.
+#	You can put p1 and p2 into a horizontal layout using row().
+
 # Import row from bokeh.layouts
 from bokeh.layouts import row
 

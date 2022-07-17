@@ -15,3 +15,4 @@ p.line(date, price)
 # Specify the name of the output file and show the result
 output_file('line.html')
 show(p)
+

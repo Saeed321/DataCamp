@@ -5,13 +5,14 @@ Bokeh layouts allow for positioning items visually in the page presented to the 
 Answer the question
 
 Possible Answers
-	 
+
 Plots
 
 Widgets
-	 
+
 Other Layouts
-	 
+
 All of the above
 
 Answer : All of the above
+

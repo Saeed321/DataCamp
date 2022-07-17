@@ -12,4 +12,3 @@ layout = Tabs(tabs=[tab1, tab2, tab3, tab4])
 # Specify the name of the output_file and show the result
 output_file('tabs.html')
 show(layout)
-

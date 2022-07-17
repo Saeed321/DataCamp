@@ -6,12 +6,11 @@ What other kinds of values can glyph properties be set to in normal usage?
 Answer the question
 
 Possible Answers
-	 
+
 Dictionaries
-	 
+
 Sequences (lists, arrays)
-	 
+
 Sets
 
 Answer : Sequences (lists, arrays)
-

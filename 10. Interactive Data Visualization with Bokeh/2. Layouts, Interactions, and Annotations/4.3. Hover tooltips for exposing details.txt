@@ -1,7 +1,6 @@
 Hover tooltips for exposing details
 
 When configuring hover tools, certain pre-defined fields such as mouse position or glyph index can be accessed with $-prefixed names, for example $x, $index. But tooltips can display values from arbitrary columns in a ColumnDataSource.
-
 What is the correct format to display values from a column "sales" in a hover tooltip?
 
 Answer the question
@@ -15,4 +14,3 @@ Possible Answers
 @sales
 
 Answer : @sales
-
